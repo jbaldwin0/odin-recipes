@@ -1,17 +1,9 @@
 * {
     text-align: center;
-    background-color: cornflowerblue;
 }
 
 img {
     height: auto;
     width: 250px;
 }
-
-ul  {
-    padding-left: 10;
-  }
-ul li {
-     list-style-position: inside;
-  }
 
